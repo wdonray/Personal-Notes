@@ -1,6 +1,15 @@
 1. What is Nuxt JS
-	- Framework that offers server side rendering for Vue applications
-	- Universal apps / server side rendering 
+	- Framework that offers server side rendering for Vue applications (Similar to Next JS for React)
+	- Universal apps / server side rendering
+		- Preload app on server which will improve SEO (Does not wait for JS to load and shows a blank HTML)
 	- SEO optimization
 	- Control of head, title, meta, etc
+		- All of this data will be here before the page is loaded
 	- Simple page routing
+		- No complicated routing
+	- Bundled with vue-router, Vuex, vue-meta and more
+	- Choice of universal or SPA
+	- Choice to include Express or other backend Framework
+	- Choice to include Bootstrap or other UI Framework
+	- Automatic code-splitting, Babel transpile, Sass integration
+	- Easy build 'nuxt generate' creates dist folder for deployment
