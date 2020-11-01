@@ -1,0 +1,12 @@
+1. What is jQuery?
+  - jQuery is a small, fast and feature-rich JS library.
+  - jQuery makes things like DOM manipulation, even handling and Ajax MUCH easier.
+  - Much less code
+
+2. Main Parts
+  - Selectors (Same CSS Selectors)
+  - Events  (Mouse/Form/Input Events)
+  - DOM manipulation (Add/Remove/Change in the document object module)
+  - Methods
+  - Effects and Animation
+  - Ajax (Load/Get/Post)

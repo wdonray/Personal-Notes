@@ -1,0 +1,38 @@
+1. Who made Typescript
+  - Microsoft
+
+2. Which of the following is the typing principle of typescript?
+  - Gradual, Dynamic, Duck
+
+3. Which of the following is a filename extension for typescript?
+  - .tsx
+
+4. Among which of the following computer programming language influenced the creation of typescript?
+  - Java, Javascript, C#
+
+5. How would you create a new Typescript project?
+  - npx react-native init MyApp --template react-native-template-typescript
+  - expo init TypescriptProject
+
+6. How would you add Typescript to a project?
+  - Install needed dependencies
+  - Create a tsconfig.json file at root of project
+
+7. Prop Types?
+  - You can provide an interface for a React Component's Props and State which will provide type-checking and editor auto-completing when working with that component in JSX.
+
+8. What is babel?
+  - A JS compiler
+
+9. How do you install babel in TS?
+  - Install the dependencies plugin, create a babel config file
+
+10. What are the variable scopes available in TypeScript?
+  - Global Scope
+  - Class Scope
+  - Local Scope
+
+11. What are the benefits of TypeScript?
+  - Adds static types
+  - Catches errors fast
+  - Clean code structure

@@ -1,0 +1,20 @@
+1. What is Vue?
+  - Vue is a progressive and performant JS framework used to build front-end applications.
+
+2. Why use Vue?
+  - Makes creating UIs and front-end apps much easier
+  - Less of a learning curve than other frameworks
+  - Extremely fast and lightweight
+  - Build powerful SPA (Single page applications) apps
+  - Virtual DOM (Loads only certain things when needed)
+
+3. Anatomy of a component
+  - Output (HTML)
+  - Functionality (JS)
+  - Style (CSS)
+
+4. VueX State management
+  - Used to manage application level state
+  - Serves as a central store for all components
+  - Uses actions to update global state and send down to components
+  - Used in larger applications

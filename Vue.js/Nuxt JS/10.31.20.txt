@@ -1,0 +1,6 @@
+1. What is Nuxt JS
+	- Framework that offers server side rendering for Vue applications
+	- Universal apps / server side rendering 
+	- SEO optimization
+	- Control of head, title, meta, etc
+	- Simple page routing

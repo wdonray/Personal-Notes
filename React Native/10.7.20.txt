@@ -1,0 +1,20 @@
+1. What are the core components?
+  - View
+  - Text
+  - Image
+  - Scroll View
+  - Text Input
+
+2. How do you create a style?
+  - Stylesheet.create
+
+3. What is Flat List?
+  - Its a component that renders a list
+  - Takes in data and renderItem
+
+4. Button?
+  - Button component / onPress / title
+
+5. How can you build your own button?
+  - Using TouchableHighlight
+  - TouchableNativeFeedback on Android

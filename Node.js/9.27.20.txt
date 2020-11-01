@@ -1,0 +1,25 @@
+1. What is it?
+  - A runtime that allows you to run JS on a server
+  - Created in 2009
+  - First ever to allow JS to be ran on a server
+  - Can create full-stack application in a single language
+  - Written in C++
+
+2. What can Node do?
+ - Visit URL that points to server
+ - Handles request and reads a file
+
+3. Streams
+  - Start using data, before it has finished loading
+  - Pass data known as buffers into the browser
+  - Small bits of data come in at a time so you can use it right away
+
+4. Status Codes
+  - 100 Range / Informational responses
+  - 200 Range / Success codes
+  - 300 Range / Codes for redirects
+  - 400 Range / User or client error codes
+  - 500 Range / Server error codes
+
+5. What is Express?
+  - A framework that helps handle our request, routing, server side logic and responses.
