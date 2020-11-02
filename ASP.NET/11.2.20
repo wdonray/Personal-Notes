@@ -8,3 +8,6 @@ ASP.NET Tutorial
   - namespace RazorPagesMovie.Data
     - A class called RazorPagesMovieContext
       - Inherits DbContext https://www.tutorialspoint.com/asp.net_core/asp.net_core_dbcontext.htm
+
+
+CONTINUE - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-3.1&tabs=visual-studio
